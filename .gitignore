@@ -1,5 +1,6 @@
 # Prerequisites
 *.d
+[Dd]ebug/
 
 # Compiled Object files
 *.slo
@@ -32,3 +33,4 @@
 *.app
 *.db
 *.opendb
+CppCourse/.vs/CppCourse/v16/.suo

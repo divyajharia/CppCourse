@@ -2,11 +2,19 @@
 //
 
 #include <iostream>
+using namespace std;
 
-int main()
-{
-    std::cout << "Hello World!\n";
-}
+//int main()
+//{
+//    string name;
+//    string favFood;
+//    cout << "Enter your name"<<endl;
+//    cin >> name;
+//    cout << "Hi, " << name << " How are you doing today, Please tell me your favourite food ?"<<endl;
+//    cin >> favFood;
+//    std::cout << "Thanks i am good today, How are you ? My Favourite food is  " << favFood << endl;
+//    cout << "Mine too !!! love it"<<endl<<endl;
+//}
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
