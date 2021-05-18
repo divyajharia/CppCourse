@@ -27,5 +27,14 @@
     <ClCompile Include="Chap3_TaxingData.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ChipGameWithFunctions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CommonLibFunctions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="fstream.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
