@@ -142,6 +142,7 @@
     <ClCompile Include="Chap2_RandomeNumber.cpp" />
     <ClCompile Include="Chap3_TaxingData.cpp" />
     <ClCompile Include="ChipsGame.cpp" />
+    <ClCompile Include="ClassesBasics.cpp" />
     <ClCompile Include="CppCourse.cpp" />
     <ClCompile Include="Functions.cpp" />
     <ClCompile Include="NonRecursiveFactorial.cpp" />
