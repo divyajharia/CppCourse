@@ -27,13 +27,16 @@
     <ClCompile Include="Chap3_TaxingData.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ChipGameWithFunctions.cpp">
+    <ClCompile Include="Overloading.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CommonLibFunctions.cpp">
+    <ClCompile Include="NonRecursiveFactorial.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="fstream.cpp">
+    <ClCompile Include="Functions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ClassesBasics.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
