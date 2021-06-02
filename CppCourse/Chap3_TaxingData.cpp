@@ -3,7 +3,7 @@
 #include <iomanip>
 using namespace std;
 
-const int TAX_RATE = 13.9;
+//const int TAX_RATE = 13.9;
 //int main()
 //{
 //	//declare variables

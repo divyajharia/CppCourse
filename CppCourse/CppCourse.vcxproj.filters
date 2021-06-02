@@ -39,5 +39,17 @@
     <ClCompile Include="ClassesBasics.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="PointersUse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Linklistbasic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CountCharacters.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Functionpointer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
